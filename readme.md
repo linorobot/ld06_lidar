@@ -1,8 +1,7 @@
-# LD06 Lidar ROS2 driver
+# LD06 Lidar Humble ROS2 driver
 
 This is an attempt to fix and improve the driver provided by LDRobots in their
 [website](https://www.ldrobot.com/download/44)
-Now are be repaired, and have been tested on ROS2 Humble under ubuntu 22.04
 
 ## Installation
     cd <your_ws> 
