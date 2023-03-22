@@ -1,4 +1,4 @@
-# LD06 Lidar ROS2 driver
+# LD06 Lidar Humble ROS2 driver
 
 This is an attempt to fix and improve the driver provided by LDRobots in their
 [website](https://www.ldrobot.com/download/44)
